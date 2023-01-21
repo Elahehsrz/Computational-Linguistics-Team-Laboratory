@@ -2,7 +2,7 @@
 This implementation is part of the “gender classification” project for the course Computational Linguistics 
 Team Laboratory during the summer semester of 2021. 
 
-Useful tutorials and source:
+Useful tutorials and source code:
 
 
 Bert:
