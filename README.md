@@ -2,6 +2,7 @@
 This implementation is part of the “gender classification” project for the course Computational Linguistics 
 Team Laboratory during the summer semester of 2021. 
 
+Useful tutorials and source:
 Bert:
 https://huggingface.co/transformers/v2.1.1/migration.html 
 https://www.kaggle.com/omarjoual/arabic-bert 
