@@ -1,4 +1,4 @@
-# Computational-Linguistics-Team-Laboratory
+# Sentiment Analysis 
 This implementation is part of the “gender classification” project for the course Computational Linguistics 
 Team Laboratory during the summer semester of 2021. 
 
